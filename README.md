@@ -1,1 +1,1 @@
-# electricity_bills_calculator
+# electricitybills_calculator
